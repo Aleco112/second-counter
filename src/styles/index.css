@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: black;
+    margin-top: 20px;
+}
+
+.header{ 
+    border: 2px solid black ;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    background-color: black;
+    margin: 2px;
+
+}
+.number{
+    border: 2px solid white;
+    background-color: white;
+    font-size: 100px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    margin: 8px;
+}
+
