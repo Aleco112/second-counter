@@ -33,6 +33,7 @@ This boilerplate is 100% compatible with the free [github pages](https://pages.g
 It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
 
 ## Other features
+# add somthing new
 
 - Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
 - Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
